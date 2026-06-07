@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="./DevStructureLogo.png" alt="DevStructure" width="120" height="120" />
+    <img src="./DevStructureLogo.jpeg" alt="DevStructure" width="120" height="120" />
   <br />
 
   <h1 align="center">DevStructures</h1>
