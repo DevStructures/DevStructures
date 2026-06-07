@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://raw.githubusercontent.com/omamberkar/devstructure/main/public/logo.png" alt="DevStructure" width="120" height="120" />
+    <img src="./DevStructureLogo.png" alt="DevStructure" width="120" height="120" />
   <br />
 
   <h1 align="center">DevStructures</h1>
